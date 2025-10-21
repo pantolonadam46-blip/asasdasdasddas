@@ -1,15 +1,15 @@
 @echo off
-title VGC.SERVICES --> PASTE NO 1
+title 
 cls
 
 timeout 2 > nul
-echo BACI COKERTEN TARAFINDAN BURALAR KULLANICI DOSTU SEKILDE DUZENLENMISTIR
+
 timeout 2 > nul
-echo AMIDEWIN OLANLARI SILDIM ANAKARTINIZ SIKILMESIN BU BOKTAN SPOOFERDAN KAYNAKLI
+
 timeout 2 > nul
-echo ONUN DISINDA BASKA BIR SEY YOK
+
 timeout 2 > nul
-echo VANGUARD BYPASSINIZDA GELECEK CRPYTAUTH KURTARMAZ
+
 timeout 2 > nul
 
 
@@ -95,3 +95,4 @@ powershell.exe [console]::beep(1000, 2000)
 echo [+] TUM ISLEMLER TAMAMLANDI.
 
 pause
+
